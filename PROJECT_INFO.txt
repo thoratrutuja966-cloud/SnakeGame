@@ -1,0 +1,5 @@
+Snake Arena - Java Mini Project
+
+Main file: SnakeGame.java
+Assets: assets/
+Run: javac SnakeGame.java && java SnakeGame
